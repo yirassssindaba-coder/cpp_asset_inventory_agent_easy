@@ -1,0 +1,9 @@
+{
+  "id": "demo-001",
+  "hostname": "ASUS-ROBERTO",
+  "os": "Windows",
+  "cpu_cores": 8,
+  "ram_mb": 16384,
+  "ip": "10.22.50.4",
+  "timestamp": "2026-02-13T14:05:10+07:00"
+}
